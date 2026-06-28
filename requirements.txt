@@ -1,0 +1,44 @@
+# Data Processing
+pandas
+numpy
+
+# Data Collection / Web Scraping
+requests
+beautifulsoup4
+lxml
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress Tracking
+tqdm
+
+# NLP Processing
+nltk
+vaderSentiment
+textstat
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Deep Learning / Transformer Models
+torch
+transformers
+sentencepiece
+datasets
+accelerate
+evaluate
+
+# Financial / Market Data
+yfinance
+
+# Causal Analysis and Graphs
+dowhy
+networkx
+
+# Jupyter Environment
+jupyter
+notebook
+ipykernel
