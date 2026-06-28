@@ -150,7 +150,7 @@ jupyter notebook notebook.ipynb
 | File | Description |
 |------|-------------|
 | `notebook.ipynb` | Final integrated proposal + analysis notebook |
-| `external_notebooks/` | Supporting workflow notebooks |
+| `notebooks/` | Supporting workflow notebooks |
 | `requirements.txt` | Python dependencies |
 | `presentation.pdf` | Final presentation slides |
 
