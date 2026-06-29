@@ -26,6 +26,7 @@ joblib
 # Deep Learning / Transformer Models
 torch
 transformers
+sentence-transformers
 sentencepiece
 datasets
 accelerate
