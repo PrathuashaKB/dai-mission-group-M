@@ -185,7 +185,7 @@ jupyter notebook notebook.ipynb
 | Final notebook included | ✓ |
 | Notebook executed with outputs visible | ✓ |
 | requirements.txt included | ✓ |
-| Presentation uploaded as PDF |  |
+| Presentation uploaded as PDF | ✓ |
 | External notebooks included | ✓ |
 | Large datasets not uploaded directly | ✓ |
 | Data downloaded programmatically where required | ✓ |
